@@ -1,0 +1,19 @@
+body {
+  width: 500px;
+  max-height: 800px;
+}
+div.copied_history {
+  margin: 10px 0;
+  overflow: scroll;
+}
+
+div.copied_history ul li:hover {
+  background-color: lightblue;
+}
+
+#temp_textarea_for_copy {
+  display: none;
+  resize: none;
+  width: 0;
+  height: 0;
+}
