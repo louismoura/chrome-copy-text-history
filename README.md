@@ -1,5 +1,5 @@
 # Google Chrome Extension
-現在公開審査中
+https://chrome.google.com/webstore/detail/copy-text-history/dbokdidlllgkkggdgnnnhlnpkiplapeh?hl=ja&authuser=1
 
 # chrome-copy-text-history
 ブラウザ上でコピーしたテキストの履歴を保持し、履歴から再度コピーを可能とする
